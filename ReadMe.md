@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi,<br>This is Joy Ahmed. Welcome to my github profile.<br>🔭 I’m currently working as an independent cyber security researchers<br>🌱 I’m currently to learning sqa & cyber security in depth<br>
+Hi,<br>This is Joy Ahmed. Welcome to my github profile.<br>🔭 I’m currently working as an independent cyber security researchers<br>🌱 I’m currently try to learning more in depth SQA & Cyber Security<br>
 
 
 ## 🌐 Socials:
