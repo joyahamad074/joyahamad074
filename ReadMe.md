@@ -13,7 +13,7 @@ Hi,<br>This is Joy Ahmed. Welcome to my github profile.<br>🔭 I’m currently 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joyahamad074&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joyahamad074&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 */-->
-![](https://streak-stats.demolab.com/?user=joyahamad074&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xcoder074&theme=dark)](https://git.io/streak-stats)
 
 
 ## 🏆 GitHub Trophies
